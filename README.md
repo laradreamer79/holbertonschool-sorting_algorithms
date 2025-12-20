@@ -11,7 +11,7 @@ Through these implementations, the project emphasizes understanding **when and w
 
 ---
 
-## 📚 Data Structures
+## Data Structures
 
 ### Doubly Linked List
 ```c

@@ -90,6 +90,7 @@ void counting_sort(int *array, size_t size)
 {
 int *count, *output;
 int max;
+size_t i;
 
 if (array == NULL || size < 2)
 return;
@@ -111,7 +112,7 @@ return;
 }
 
 /* Copy sorted elements back to original array */
-for (size_t i = 0; i < size; i++)
+for (i = 0; i < size; i++)
 array[i] = output[i];
 
 /* Free allocated memory */

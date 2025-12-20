@@ -59,6 +59,44 @@ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 \
 ### Usage
 ./bubble
 
+## Glossary
+
+**Sorting Algorithm**  
+A method used to arrange data in a specific order, usually in ascending or descending order.
+
+**Stable Sort**  
+A sorting algorithm that preserves the relative order of elements with equal values.
+
+**Unstable Sort**  
+A sorting algorithm that may change the relative order of elements with equal values.
+
+**Time Complexity**  
+A measure of how the running time of an algorithm increases as the input size grows.
+
+**Space Complexity**  
+A measure of the amount of extra memory required by an algorithm.
+
+**In-place Algorithm**  
+An algorithm that sorts data using a constant or very small amount of additional memory.
+
+**Comparison Sort**  
+A sorting algorithm that orders elements by comparing them with each other.
+
+**Non-comparison Sort**  
+A sorting algorithm that sorts data without comparing elements directly.
+
+**Partition**  
+The process of rearranging elements around a pivot value, commonly used in Quick Sort.
+
+**Pivot**  
+An element chosen to divide a data set into smaller parts during sorting.
+
+**Doubly Linked List**  
+A data structure in which each node contains links to both the previous and next nodes.
+
+**Big-O Notation**  
+A mathematical notation used to describe the efficiency and scalability of an algorithm.
+
 ### Author 
 **Lara Alzannan And Afnan Alfaidi**
 
